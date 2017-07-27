@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/austinChappell/forms-practice#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "mustache-express": "^1.2.5"
   }
